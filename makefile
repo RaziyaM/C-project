@@ -1,0 +1,2 @@
+/*all:   my_lib.h main.c  string_helper.c macro.c file_function.c steps1_2_3.c machine_word.c built_binary.c error_detect.c
+	gcc -ansi -Wall -pedantic -g  my_lib.h main.c  string_helper.c macro.c file_function.c steps1_2_3.c  machine_word.c built_binary.c error_detect.c -o run_prog -lm
