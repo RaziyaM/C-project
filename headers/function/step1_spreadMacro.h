@@ -1,0 +1,1 @@
+int step1_built_macro(char * file_path);

@@ -1,0 +1,13 @@
+void remove_chars_fromSTR(char * string, char ch);
+void remove_spacesANDtabsANDenter(char * str);
+char * string_append(char *s1, char *s2);
+char * built_temp_str(char * str);
+int equal_str(char * str1, char * str2);
+int is_str_is_digit(char * str);
+void pass_white_spaces_from_the_begin(char ** str);
+char * copy_str_until_index(char * str, int index);
+int is_str_is_num(char * str);
+int is_space_in_middle(char * line);
+void remove_white_spaces(char * string);
+int is_str_empty(char * str);
+void str_reverse(char * str);
